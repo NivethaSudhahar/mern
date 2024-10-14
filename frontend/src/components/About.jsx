@@ -13,13 +13,10 @@ const About = () => {
               <p>The only thing we're serious about is food.</p>
             </div>
             <p className="mid">
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-              Provident possimus optio adipisci dolores impedit illum iusto
-              perferendis, laudantium quod accusamus consequuntur consectetur,
-              tempore nulla error iure reiciendis dolorem assumenda.
-              Necessitatibus fugit asperiores totam rem esse exercitationem
-              iusto ipsum qui dolore ex, accusantium repellat mollitia
-              repellendus.
+              Everything that we bring you is pure, delicious and authentic. 
+              At Adyar Ananda Bhavan, we prepare only using the finest ingredients, 
+              following time-tested methods. Experience a perfect blend of timeless 
+              tradition and innovation in every bite.
             </p>
             <Link to={"/"}>
               Explore Menu{" "}
